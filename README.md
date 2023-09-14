@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pascual-Eburi](https://github.com/Pascual-Eburi)
+- 👨‍💻 All of my projects are available at [https://github.com/Pascual-Eburi](https://github.com/Pascual-Eburi?tab=repositories)
 
 - 💬 Ask me about **php, python, javascript**
 
